@@ -1,6 +1,6 @@
 body {
-    background-image: url(/img/fundo.png);
-    width: 940px;
+    background: #d2d2c1 url(/img/fundo.png);
+   
 }
 
 .menu {
